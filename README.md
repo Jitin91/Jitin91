@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jitin
 - 👀 I’m interested in Amibroker Function Language and Python
 - 🌱 I’m currently learning to operationalize python for Trade-related analysis
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on low latency systems & web applications built using JS.
 - 📫 How to reach me jitin.ginotra91@gmail.com
 
 <!---
